@@ -1,3 +1,0 @@
-/*
- * ALTERATION HOOKS
- */

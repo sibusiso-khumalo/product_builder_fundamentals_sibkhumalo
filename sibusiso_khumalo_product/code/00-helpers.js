@@ -1,7 +1,0 @@
-/*
- * HELPER CONSTANTS
- */
-
-/*
- * HELPER FUNCTIONS
- */
